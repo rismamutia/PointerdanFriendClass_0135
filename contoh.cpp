@@ -5,6 +5,7 @@ class PersegiPanjang
 {
     public: // akses modifier
         int panjang, lebar;
-
+    
+   
     
 }
