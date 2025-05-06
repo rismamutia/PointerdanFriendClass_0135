@@ -19,4 +19,11 @@ class PersegiPanjang
         {
             return a * b;
         }
+        //Lingkaran ol;
+};
+
+class Lingkaran 
+{
+    public:
+    
 }
